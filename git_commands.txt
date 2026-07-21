@@ -20,3 +20,8 @@ rm testing.py
 git status                                                                                                                                                                                                                                                                                                                       
 git restore testing.py                                                                                                                                                      
 git history  
+git remote -v
+git set-url origin https://copied PAT@github.com/path
+git push origin main / master
+git branch
+git log
